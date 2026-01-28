@@ -13,7 +13,7 @@ struct Samochod {
 
 // Baza danych w pamięci
 vector<Samochod> baza;
-
+//kurwa
 // 1. Wczytywanie - bez sprawdzania czy plik istnieje
 void wczytaj() {
     string nazwa, linia;
